@@ -1,0 +1,1 @@
+export function todo(message: string | null): never;
