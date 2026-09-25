@@ -3,7 +3,7 @@ const RED = '\x1b[31m';
 const RESET = '\x1b[0m';
 
 /**
- * @param { string | null} message - Todo message.
+ * @param { string } message - Todo message.
  * @returns { never }
  */
 function todo(message = null) {

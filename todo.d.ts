@@ -1,1 +1,1 @@
-export function todo(message: string | null): never;
+export function todo(message?: string): never;
