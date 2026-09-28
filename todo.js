@@ -17,4 +17,4 @@ function todo(message = null) {
     process.exit(1);
 }
 
-module.exports = { todo };
+module.exports = todo;
